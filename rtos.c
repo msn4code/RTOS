@@ -172,7 +172,7 @@ int main(void) {
   tcb[currentTask].taskFunc();
 
   while (1) {
-    // The main loop is not used in this example
+   
   }
 
   return 0;
